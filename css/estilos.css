@@ -4,23 +4,23 @@
 }
 @font-face {
     font-family: 'Sassy Raccoon';
-    src: url(../fondos/Sassy\ Raccoon.ttf);
+    src: url(../assets/fondos/Sassy\ Raccoon.ttf);
 }
 
 @font-face {
     font-family: 'MadimiOne-Regular';
-    src: url(../fondos/MadimiOne-Regular.otf);
+    src: url(../assets/fondos/MadimiOne-Regular.otf);
 }
 
 @font-face{
     font-family: 'CooperFiveOpti-Black';
-    src: url(../fondos/CooperFiveOpti-Black.otf);
+    src: url(../assets/fondos/CooperFiveOpti-Black.otf);
 }
 
 
 
 .fondo1{
-    background: url(../fondos/bosque.svg);
+    background: url(../assets/fondos/bosque.svg);
     height: 50rem;
     z-index: -1;
     background-repeat: no-repeat;
@@ -29,7 +29,7 @@
 }
 
 .fondo2{
-    background: url(../fondos/pag.svg);
+    background: url(../assets/fondos/pag.svg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 90%;
