@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+.capitulos{
+        background-image: url(../assets/fondos/capitulo1.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+        justify-content: end;
+        align-items: end;
+        width: 100%;
+        min-height: 100vh;
+        position: relative;
+        background-color: #cdecf7;
+    }
+
+
+.botones{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px 20px;
+
+}
+
+.boton{
+    width: 5%;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+
+}
+
+.boton:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+

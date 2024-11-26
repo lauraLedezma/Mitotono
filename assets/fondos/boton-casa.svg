@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137.12 124.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5095ad;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #82a86c;
+      }
+
+      .cls-3 {
+        fill: #65a7c4;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <ellipse class="cls-2" cx="68.56" cy="62.36" rx="68.56" ry="62.36"/>
+      <g>
+        <path class="cls-1" d="M38.65,59.49s-3.13,3.45-6.12,0c0,0-3.68-2.86,0-6.27l33.3-30.33s2.54-1.31,4.6,0l34.12,31.01s2.27,2.3-.25,4.92c0,0-3.98,4.59-6.58.98l-29.69-26.83-29.37,26.5Z"/>
+        <path class="cls-3" d="M38.81,91s.16,3.94,3.74,4.27h51.05s2.8-.16,3.78-3.28l-.26-32.69-29.11-26.3-29.37,26.5.16,31.51Z"/>
+        <rect class="cls-4" x="69.07" y="57.36" width="12.53" height="12.64" rx="4.87" ry="4.87"/>
+        <rect class="cls-4" x="69.07" y="72.78" width="12.53" height="12.64" rx="4.87" ry="4.87"/>
+        <rect class="cls-4" x="54.43" y="72.46" width="12.53" height="12.64" rx="4.87" ry="4.87"/>
+        <rect class="cls-4" x="54.43" y="57.36" width="12.53" height="12.64" rx="4.87" ry="4.87"/>
+      </g>
+    </g>
+  </g>
+</svg>

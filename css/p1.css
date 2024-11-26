@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-image: url(../assets/fondos/fondo-natural.webp);
+    background-size: cover;
+    background-position: top;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.comic-elements{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px 20px;
+
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding: 30px 0;
+
+}
+
+.boton-personajes{
+    width: 5%;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    cursor: pointer;
+
+}
+
+.boton-personajes:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+.boton-instrucciones:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+
+.boton-instrucciones{
+    width: 5%;
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+}
+
+
+
+.contenedor{
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 200px;
+    width: 100%;
+
+
+
+}
+
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 200px;
+    height: 300px;
+    border-radius: 15px;
+    border: 2px solid rgb(13, 76, 19);
+    background-color: rgb(141, 202, 103);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.disabled{
+
+    cursor: not-allowed;
+}
+
+/* bs */
+
+.modal{
+    --bs-modal-zindex: 1055;
+    --bs-modal-width: 70%;
+}
+
+.logo img{
+    width: 200px;
+}
